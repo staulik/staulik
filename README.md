@@ -1,10 +1,17 @@
 ### Olá sou o Silvio Aulik 🤙
 
+
 [![Blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/t/blog)
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCT49Y4kC4_LLQrnDsM1J4hg)
 [![Wordpress](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)](https://silvioqualidade.wordpress.com/)
 
-![Saulik's GitHub stats](https://github-readme-stats.vercel.app/api?username=staulik&show_icons=true&theme=radical)
+<div>
+  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=staulik&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
+  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=staulik&layout=compact&langs_count=16&theme=great-gatsby"/>
+</div>
+<br>
+
+
 
 ### Técnologias de atuação
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
@@ -24,3 +31,6 @@
 ### PIPELINES
 [![AZURE DEVOPS](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)](https://azure.microsoft.com/pt-br/products/devops)
 [![CIRCLE CI](https://img.shields.io/badge/circleci-343434?style=for-the-badge&logo=circleci&logoColor=white)](https://azure.microsoft.com/pt-br/products/devops)
+
+   
+![Snake animation](https://github.com/staulik/staulik/blob/output/github-contribution-grid-snake.svg)
